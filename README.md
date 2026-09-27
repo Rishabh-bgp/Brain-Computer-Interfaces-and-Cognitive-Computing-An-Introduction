@@ -103,23 +103,23 @@ Read Chapter 0 before Chapter 1. Do not skip the leakage demonstration; later ch
 
 ### Status of the manuscript
 
-| Chapter | Notebook | Status |
+| Chapter | Aim | Status |
 |--------:|----------|--------|
-| — | `README.md` (this preface) | Complete |
-| Chapter 0 — Two short refreshers | `A mathematical note.` | Complete |
-| Chapter 1 — What an interface is | `Give students a stable vocabulary and a reason to care before any filter equation appears.` | Complete |
-| 2 | A first model of the brain | In preparation |
-| 3 | Measuring and stimulating | In preparation |
-| 4 | The BCI loop | In preparation |
-| 5 | Paradigms that already work | In preparation |
-| 6 | From traces to features | In preparation |
-| 7 | Learning systems for neural data | In preparation |
-| 8 | Cognitive computing in this setting | In preparation |
-| 9 | Communication and motor substitution | In preparation |
-| 10 | Rehabilitation and closed loops | In preparation |
-| 11 | Beyond the clinic | In preparation |
-| 12 | Evaluation, translation, and ethics | In preparation |
-| L | Laboratory appendix | In preparation |
+| — | README.md (this preface) | Complete |
+| Chapter 0 — Two short refreshers | A mathematical note. | Complete |
+| Chapter 1 — What an interface is | Give students a stable vocabulary and a reason to care before any filter equation appears. | Complete |
+| Chapter 2 — A first model of the brain | Supply only the biology an engineer must not get wrong. | In preparation |
+| Chapter 3 — Measuring and stimulating | Make the resolution–risk trade-off the organising idea of the chapter. | In preparation |
+| Chapter 4 — The BCI loop | This is the spine of the course. Every later chapter hangs off one box in this diagram. | In preparation |
+| Chapter 5 — Paradigms that already work | Teach four families well rather than twenty names badly. | In preparation |
+| Chapter 6 — From traces to features | Make preprocessing a principled stage, not a ritual. | In preparation |
+| Chapter 7 — Learning systems for neural data | Connect the student’s existing machine-learning course to neural time series. | In preparation |
+| Chapter 8 — Cognitive computing in this setting | Separate three ideas students routinely fuse. | In preparation |
+| Chapter 9 — Communication and motor substitution | Move from bit-rate to a usable day. | In preparation |
+| Chapter 10 — Rehabilitation and closed loops | Show BCI as a therapy component, not only as a substitute limb. | In preparation |
+| Chapter 11 — Beyond the clinic | Teach the consumer and workplace layer without glamour. | In preparation |
+| Chapter 12 — Evaluation, translation, and ethics | Give students a professional conscience and a translation map. | In preparation |
+| Appendix L — Laboratory (optional but recommended)| Four sessions: (L1) inspect public EEG and plot spectra; (L2) P300 offline pipeline; (L3) motor-imagery classification with a leakage-safe split; (L4) design document for a hypothetical study, including an ethics checklist. All work on public datasets so the course does not depend on purchasing headsets. | In preparation |
 
 ---
 
