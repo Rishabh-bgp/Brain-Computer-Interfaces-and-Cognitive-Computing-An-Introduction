@@ -106,8 +106,8 @@ Read Chapter 0 before Chapter 1. Do not skip the leakage demonstration; later ch
 | Chapter | Notebook | Status |
 |--------:|----------|--------|
 | — | `README.md` (this preface) | Complete |
-| 0 | `chapters/chapter_00_refreshers.ipynb` | Complete |
-| 1 | `chapters/chapter_01_what_an_interface_is.ipynb` | Complete |
+| Chapter 0 — Two short refreshers | `A mathematical note.` | Complete |
+| Chapter 1 — What an interface is | `Give students a stable vocabulary and a reason to care before any filter equation appears.` | Complete |
 | 2 | A first model of the brain | In preparation |
 | 3 | Measuring and stimulating | In preparation |
 | 4 | The BCI loop | In preparation |
